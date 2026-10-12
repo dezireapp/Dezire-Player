@@ -37,4 +37,4 @@ Features and plans may change.
 
 ---
 
-© 2026 Nikhlesh Bharti. All rights reserved.2
+© 2026 Nikhlesh Bharti. All rights reserved.
