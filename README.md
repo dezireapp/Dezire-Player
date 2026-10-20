@@ -1,170 +1,142 @@
-<div align="center">
+<div align="center">🎧 DEZIRE
 
-# 🎧 DEZIRE
+Music. Emotion. Experience.
 
-### Music. Emotion. Experience.
+Your music. Your world. Your Dezire.
 
-**Your music. Your world. Your Dezire.**
+A modern Android music player built around the way you experience music.
 
-A new way to experience your music is coming.
+<br>"Status" (https://img.shields.io/badge/Status-In%20Development-E50920?style=for-the-badge)
+"Platform" (https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+"Language" (https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+"UI" (https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
-<br>
-
-![Status](https://img.shields.io/badge/Status-In%20Development-E50920?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Language](https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-<br>
-
-*Crafted for people who truly feel music.*
+<br>Crafted for people who don't just listen to music — they feel it.
 
 ---
 
-</div>
+</div>🎵 About Dezire
 
-## 🎵 About Dezire
+Dezire is an Android music player project focused on creating a modern, immersive and personal music-listening experience.
 
-**Dezire** is an Android music player project built around
-one simple idea:
+Built with Kotlin and Jetpack Compose, Dezire aims to combine thoughtful interface design with a music-first approach. From album artwork and playback controls to library navigation, the goal is to make listening to your own music feel more engaging.
 
-> Music deserves an experience as beautiful as the sound itself.
+We believe a music player should be more than a collection of buttons. It should make the music feel like the center of the experience.
 
-We're working toward a clean, immersive and modern music
-player that brings your personal music collection to life.
+«Not just playing music. Experiencing it.»
 
-From album artwork to playback controls, every detail is
-intended to make listening feel more personal.
+✨ Our Vision
 
-**Not just playing music. Experiencing it.**
+Dezire is being developed around these core ideas:
 
----
+- 🎨 Immersive Interface — A modern UI with a distinctive visual identity.
+- 🖼️ Artwork-Focused Design — Give album covers the space and attention they deserve.
+- 🎧 Music First — Keep the listening experience at the center of the interface.
+- 📂 Personal Music Library — Make local music accessible and easy to navigate.
+- 🎼 Audio Quality — Build a reliable foundation for high-quality audio playback.
+- ⚡ Smooth Interaction — Responsive controls and intuitive navigation.
+- 🌑 Distinctive Aesthetic — A cohesive visual style designed for music lovers.
 
-## ✨ The Vision
+These are development goals. Availability depends on implementation progress.
 
-Dezire is being developed with a focus on:
+🖤 Design Philosophy
 
-- 🎨 **Immersive Design** — A modern interface with a strong
-  visual identity.
-- 🖼️ **Beautiful Artwork** — Album art deserves the spotlight.
-- 🎧 **Music First** — A listening experience without
-  unnecessary distractions.
-- 📂 **Your Music Library** — Easy access to your local music.
-- 🎼 **High-Quality Audio** — A foundation for a music player
-  designed with audio quality in mind.
-- ⚡ **Smooth Experience** — Responsive controls and fluid
-  navigation.
-- 🌑 **Dark Aesthetic** — A distinctive visual style designed
-  for music lovers.
+Principle| Our Approach
+🎨 Design| Clean, intentional and immersive interfaces
+🎧 Audio| Keep music at the heart of the experience
+⚡ Performance| Responsive interactions and reliable playback
+💿 Identity| A recognizable visual language for Dezire
+🛠️ Reliability| Build features on a maintainable Android architecture
 
-*These are project goals; features are being developed.*
+Less clutter. More music. A listening experience designed with intention.
 
----
-
-## 🖤 Designed Around Music
-
-The Dezire experience is being shaped around four principles:
-
-| Principle | The Idea |
-|---|---|
-| 🎨 Design | Beautiful, intentional interfaces |
-| 🎧 Audio | Music at the center of everything |
-| ⚡ Performance | A responsive Android experience |
-| 💿 Identity | A distinctive look and feel |
-
-No unnecessary complexity.
-No distractions from the music.
-Just a player built around the listening experience.
-
----
-
-## 🛠️ Technology
+🛠️ Technology Stack
 
 Dezire is being developed using modern Android technologies.
 
-| Technology | Purpose |
-|---|---|
-| Kotlin | Primary programming language |
-| Jetpack Compose | Modern declarative UI |
-| Material Design | UI components and design foundations |
-| AndroidX Media3 | Planned playback engine |
-| ExoPlayer | Planned audio playback |
-| DataStore | Planned settings persistence |
+Technology| Purpose
+Kotlin| Primary programming language
+Jetpack Compose| Declarative Android UI
+Material Design| UI components and design foundations
+AndroidX Media3| Media playback and session infrastructure
+ExoPlayer| Audio playback engine through Media3
+DataStore| Persistent application settings
+Gradle Kotlin DSL| Build configuration
 
----
+Dependencies and architecture components may be integrated progressively as development continues.
 
-## 🗺️ Development Roadmap
+🗺️ Development Roadmap
 
-Dezire is a work in progress.
+Dezire is an active work in progress. The roadmap may evolve as the project develops.
 
 - [x] Android project initialized
-- [x] Initial project structure created
-- [x] Core UI dependencies configured
+- [x] Kotlin and Jetpack Compose configured
+- [x] Core UI dependencies added
+- [x] Initial source code published to GitHub
 - [ ] Local music library integration
-- [ ] Audio playback implementation
+- [ ] Complete playback engine integration
 - [ ] Now Playing screen refinement
-- [ ] Playlist and playback controls
+- [ ] Queue management and playback controls
+- [ ] Search and music discovery
 - [ ] Settings and customization
-- [ ] Testing and performance improvements
+- [ ] Testing, stability and performance improvements
 - [ ] Initial public release
 
-*Roadmap items may change as development progresses.*
+Roadmap status: A checked item indicates completed project work; unchecked items remain planned or in progress.
+
+🚧 Current Development Status
+
+Dezire-Player is currently under development.
+
+The project is progressing from its initial Android structure toward a complete local music player. UI development, playback integration and supporting application architecture are being developed incrementally.
+
+The presence of a dependency or a planned roadmap item does not necessarily mean the corresponding feature is fully implemented.
+
+There is currently no claim of a production-ready or publicly released build.
+
+📦 Project Information
+
+Detail| Value
+Project| Dezire-Player
+Application| Dezire
+Platform| Android
+Primary language| Kotlin
+UI framework| Jetpack Compose
+Development status| In Development
+Repository| "GitHub" (https://github.com/dezireapp/Dezire-Player)
+
+👨‍💻 Developer
+
+Nikhlesh Bharti
+
+Dezire is being developed with a focus on music, visual design and a more personal listening experience.
+
+🤝 Contributions
+
+The project is currently under development.
+
+Before submitting code, redistributing the project or creating derivative works, review the copyright and licensing terms below. Third-party libraries and components remain subject to their own licenses.
+
+© Copyright and Usage
+
+Copyright © 2026 Nikhlesh Bharti. All rights reserved.
+
+Unless explicitly stated otherwise in a separate license or written permission, no permission is granted to copy, modify, redistribute, publish, or create derivative works from the proprietary source code of Dezire.
+
+Third-party dependencies and components are governed by their respective licenses. Their inclusion does not change the ownership or licensing terms of the original Dezire code.
+
+🔗 Links
+
+- Source code: "Dezire-Player on GitHub" (https://github.com/dezireapp/Dezire-Player)
+- Development history: "Commits" (https://github.com/dezireapp/Dezire-Player/commits/main)
+- Project updates: "Repository activity" (https://github.com/dezireapp/Dezire-Player/activity)
 
 ---
 
-## 🚧 Current Status
+<div align="center">🎶 DEZIRE
 
-**Dezire-Player is currently under development.**
+Feel the music. Own the moment.
 
-The project is being built step by step, from its visual
-identity to its playback architecture.
-
-Features listed in the roadmap are not necessarily available
-in the current build.
-
-Stay tuned for future updates.
-
----
-
-## 👨‍💻 Developer
-
-Created by **Nikhlesh Bharti**
-
-Building Dezire with a passion for music, design,
-and a better listening experience.
-
----
-
-## 📌 Project Information
-
-**Project:** Dezire-Player  
-**Platform:** Android  
-**Language:** Kotlin  
-**Development Status:** In Development
-
----
-
-## © Copyright
-
-Copyright © 2026 Nikhlesh Bharti.
-
-All rights reserved.
-
-Unless explicitly stated otherwise, no license is granted
-to use, copy, modify, redistribute, or publish this project's
-source code or derivative works without prior written
-permission from the copyright holder.
-
-Third-party components remain subject to their respective
-licenses.
-
----
-
-<div align="center">
-
-### 🎶 DEZIRE
-
-**Feel the music. Own the moment.**
-
-*Something beautiful is coming.*
+Built around music. Designed for the experience.
 
 </div>
