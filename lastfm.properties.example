@@ -1,0 +1,8 @@
+# Copy to lastfm.properties and fill in your own credentials.
+# lastfm.properties is git-ignored and must never be committed.
+#
+# You can also provide these through environment variables instead:
+#   LASTFM_API_KEY, LASTFM_SHARED_SECRET, LASTFM_ENABLE_WRITE_AUTH
+lastfm.apiKey=replace-with-your-api-key
+lastfm.sharedSecret=replace-with-your-shared-secret
+lastfm.enableWriteAuth=false
