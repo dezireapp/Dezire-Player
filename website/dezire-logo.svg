@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Dezire logo</title>
+  <g fill="#fff">
+    <circle cx="187.5" cy="121" r="60.5"/>
+    <circle cx="323" cy="188" r="61"/>
+    <circle cx="187.5" cy="256" r="60.5"/>
+    <circle cx="323" cy="323" r="61"/>
+    <circle cx="187.5" cy="390" r="60"/>
+  </g>
+</svg>
